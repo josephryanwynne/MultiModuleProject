@@ -23,12 +23,6 @@
         <repository>
             <id>release-repo</id>
             <url>http://localhost:8081/release-repo</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
         </repository>
     </distributionManagement>
 </project>
