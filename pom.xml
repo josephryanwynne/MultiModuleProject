@@ -18,4 +18,15 @@
     <module>MultiModuleProject-web</module>
     <module>MultiModuleProject-ejb</module>
   </modules>
+  
+  <distributionManagement>
+        <repository>
+            <id>release-repo</id>
+            <url>http://localhost:8081/release-repo</url>
+        </repository>
+        <repository>
+            <id>snapshot-repo</id>
+            <url>http://localhost:8081/snapshot-repo</url>
+        </repository>
+    </distributionManagement>
 </project>
