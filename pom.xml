@@ -10,8 +10,6 @@
   <scm>
     <connection>scm:git:https://github.com/josephryanwynne/MultiModuleProject.git</connection>
     <developerConnection>scm:git:https://git@github.com/josephryanwynne/MultiModuleProject.git</developerConnection>
-    <url>https://github.com/josephryanwynne/MultiModuleProject</url>
-    <tag>HEAD</tag>
   </scm>
   
   <modules>
